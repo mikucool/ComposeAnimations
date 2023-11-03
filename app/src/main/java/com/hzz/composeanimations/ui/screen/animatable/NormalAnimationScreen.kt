@@ -1,4 +1,4 @@
-package com.hzz.composeanimations.ui.screen.normal
+package com.hzz.composeanimations.ui.screen.animatable
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.runtime.Composable

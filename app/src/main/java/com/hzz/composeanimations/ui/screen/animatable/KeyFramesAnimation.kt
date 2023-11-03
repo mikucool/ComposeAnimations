@@ -1,4 +1,4 @@
-package com.hzz.composeanimations.ui.screen.normal
+package com.hzz.composeanimations.ui.screen.animatable
 
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.FastOutLinearInEasing
