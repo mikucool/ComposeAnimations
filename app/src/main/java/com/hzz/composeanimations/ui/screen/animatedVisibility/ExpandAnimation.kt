@@ -1,4 +1,4 @@
-package com.hzz.composeanimations.ui.screen.visibility
+package com.hzz.composeanimations.ui.screen.animatedVisibility
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.expandHorizontally

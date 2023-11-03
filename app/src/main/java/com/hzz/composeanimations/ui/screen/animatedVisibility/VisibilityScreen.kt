@@ -1,6 +1,5 @@
-package com.hzz.composeanimations.ui.screen.visibility
+package com.hzz.composeanimations.ui.screen.animatedVisibility
 
-import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.rememberScrollState
