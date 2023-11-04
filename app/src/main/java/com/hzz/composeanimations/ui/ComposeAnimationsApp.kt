@@ -5,10 +5,12 @@ import androidx.compose.ui.Modifier
 import com.hzz.composeanimations.ui.screen.animatable.ANIMATABLEScreen
 import com.hzz.composeanimations.ui.screen.animatedContent.AnimatedContentScreen
 import com.hzz.composeanimations.ui.screen.animatedVisibility.VisibilityScreen
+import com.hzz.composeanimations.ui.screen.propertyAnimation.PropertyAnimationScreen
 
 @Composable
 fun ComposeAnimationApp(modifier: Modifier = Modifier) {
 //    ANIMATABLEScreen()
 //    VisibilityScreen()
-    AnimatedContentScreen()
+//    AnimatedContentScreen()
+    PropertyAnimationScreen()
 }
